@@ -1,0 +1,16 @@
+C:\source\RPSRedux\obj\Debug\net5.0\RPSRedux.csproj.AssemblyReference.cache
+C:\source\RPSRedux\obj\Debug\net5.0\RPSRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\RPSRedux\obj\Debug\net5.0\RPSRedux.AssemblyInfoInputs.cache
+C:\source\RPSRedux\obj\Debug\net5.0\RPSRedux.AssemblyInfo.cs
+C:\source\RPSRedux\obj\Debug\net5.0\RPSRedux.csproj.CoreCompileInputs.cache
+C:\source\RPSRedux\bin\Debug\net5.0\RPSRedux.exe
+C:\source\RPSRedux\bin\Debug\net5.0\RPSRedux.deps.json
+C:\source\RPSRedux\bin\Debug\net5.0\RPSRedux.runtimeconfig.json
+C:\source\RPSRedux\bin\Debug\net5.0\RPSRedux.runtimeconfig.dev.json
+C:\source\RPSRedux\bin\Debug\net5.0\RPSRedux.dll
+C:\source\RPSRedux\bin\Debug\net5.0\ref\RPSRedux.dll
+C:\source\RPSRedux\bin\Debug\net5.0\RPSRedux.pdb
+C:\source\RPSRedux\obj\Debug\net5.0\RPSRedux.dll
+C:\source\RPSRedux\obj\Debug\net5.0\ref\RPSRedux.dll
+C:\source\RPSRedux\obj\Debug\net5.0\RPSRedux.pdb
+C:\source\RPSRedux\obj\Debug\net5.0\RPSRedux.genruntimeconfig.cache
